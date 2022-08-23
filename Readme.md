@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Project-8-yellowgreen)
+![](https://img.shields.io/badge/Project-8-green)
 [Live Link](https://web-design-landing-1.netlify.app/)
 
 ## Screenshorts
